@@ -1,0 +1,25 @@
+/* Created by: Charlie Pyke
+ * Created on: September 2023
+ * This CSS file defines the style for index.html ICD20-Unit1-04-HTML
+*/
+
+body {
+  background-color: powderblue;
+}
+
+h1 {
+  background-color: rgb(255, 165, 0);
+  color: hsl(147, 50%, 47%);
+  padding: 40px;
+  text-align: center;
+}
+
+h2 {
+  background-color: tomato;
+  color: white;
+  padding: 10px
+}
+
+p {
+  background-color: #ff00ff;
+}
